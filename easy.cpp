@@ -9,3 +9,5 @@ int aboutAuthorage(){
 int main(){
     std::cout << aboutAuthorage() << std::endl;
 }
+
+// Yup it's easy

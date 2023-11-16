@@ -7,7 +7,7 @@ int aboutAuthorage(){
 }
 
 int main(){
-    int age = 19;
+    std::string name = "Roshan Raj Prasad";
     std::cout << aboutAuthorage() << std::endl;
 }
 

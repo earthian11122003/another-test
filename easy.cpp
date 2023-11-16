@@ -7,6 +7,7 @@ int aboutAuthorage(){
 }
 
 int main(){
+    int age = 19;
     std::cout << aboutAuthorage() << std::endl;
 }
 
